@@ -28,12 +28,4 @@ Open `index.html` in your browser.
 - JavaScript
 - Responsive design
 
-## Preview
-
-Clean Netflix-style sign-in form with:
-- Email/password fields
-- Sign in button
-- "Remember me" checkbox
-- Help links
-
 
