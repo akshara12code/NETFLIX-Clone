@@ -36,6 +36,4 @@ Clean Netflix-style sign-in form with:
 - "Remember me" checkbox
 - Help links
 
-## License
 
-MIT License
